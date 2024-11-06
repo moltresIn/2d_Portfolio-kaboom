@@ -50,8 +50,7 @@ Here's an overview of the main folders and files in this project:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/2d-portfolio-game.git
-    cd 2d-portfolio-game
+    git clone https://github.com/moltresIn/2d_Portfolio-kaboom.git
     ```
 
 2. **Install dependencies**:
@@ -127,5 +126,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Happy coding! 👾
 ```
-
-Replace placeholders like `https://github.com/your-username/2d-portfolio-game.git` and `https://your-live-demo-link.com` with your actual repository URL and live demo link. You can also add a **demo screenshot** for better visual appeal. This `README.md` provides a detailed overview and invites others to contribute, helping users understand the structure and purpose of the project.
