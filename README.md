@@ -1,6 +1,4 @@
-Here’s a sample `README.md` for a **2D Portfolio Game** project built with **Kaboom.js**, **Vite**, and **Vanilla JS**. This file provides an overview of the project, setup instructions, features, and how others can contribute.
 
-```markdown
 # 🎮 2D Portfolio Game
 
 A unique, interactive 2D portfolio game built with **Kaboom.js** and **Vite**! This project is designed to showcase your skills, projects, and personality in a game format. Users can explore a digital world to learn more about you and your work, making your portfolio experience engaging and memorable.
